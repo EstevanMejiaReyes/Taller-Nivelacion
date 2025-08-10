@@ -66,6 +66,7 @@ Se usa cuando necesitas cambiar de rama o actualizar el proyecto sin perder lo q
 ```bash
 git remote add origin URL
 git remote -v
+```
 
 ### 14. ¿Cómo puedo inspeccionar el historial de commits?
 Para revisar el historial y detalles de los commits en Git se pueden usar estos comandos:
@@ -79,7 +80,7 @@ Ejemplo:
 git log
 git diff
 git show a1b2c3d
-
+```
 ---
 
 ## *Sección 2: Programación en Java*
