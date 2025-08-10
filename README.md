@@ -120,6 +120,7 @@ La herencia permite que una clase herede atributos y métodos de otra.
 Ejemplo:
 ```java
 class Hija extends Madre { }
+```
 
 ### 21. ¿Qué son los modificadores de acceso y cuáles son los más comunes en Java?
 Los modificadores de acceso en Java definen el alcance o visibilidad de clases, atributos y métodos:
